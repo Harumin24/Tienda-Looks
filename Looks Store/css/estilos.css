@@ -1,6 +1,6 @@
 
  /* Margen del Menú */
-.bs-example{ 
+ .bs-example{ 
     margin: 10px;
 }
  /* Make the image fully responsive */
@@ -30,6 +30,7 @@
 		color: black;
 		text-decoration: none;
 		display: inline-block;
+        
 	  }
 
 
@@ -73,11 +74,16 @@
     opacity: 1;
   }
   
+  /*diseño de los cuadros "hombre y mujer" */
   .text {
-    background-color:darkgoldenrod;
-    color:black;
+    background-color:black;
+    color:white;
     font-size: 20px;
     padding: 16px 32px;
+  }
+  #botones a{
+    color: white;
+
   }
 /* Fin Estilo */
 
