@@ -20,30 +20,29 @@
 /* Estilo de la imagen */
 .div_hijo{
 	text-align: center;
-    width: 669px;
-    display: inline-block;
+  width: auto;
+  display: inline-block;
 	text-emphasis-color: black;
 }
+
 /* ESTILOS LINKS */
 
 .link1 {
-		color: black;
+		color: white;
 		text-decoration: none;
 		display: inline-block;
         
 	  }
-
-
 /* FIN ESTILOS LINKS */
 
 .img{
-    width: 609px;
+    width: 600px;
     display: inline;
 }
 
 .container {
     position: relative;
-    width: 50%;
+    width: 100%;
   }
   
   .image {
